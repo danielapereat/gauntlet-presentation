@@ -33,7 +33,7 @@ Open `presentation.html` in any modern browser.
 ## Presenters
 
 - Jairo Gil
-- Daniel Betancourt
+- Daniel Betancurth
 - Daniel Lozano
 - Jorge Tapicha
 - Daniela Perea
